@@ -1,5 +1,7 @@
 # 🤖 Databricks AI Functions — Document Processing Demo
 
+![banner](assets/databricks_ai_functions.svg)
+
 A practical notebook for building intelligent document processing pipelines using Databricks SQL AI Functions. Demonstrates how to parse, classify, extract, and prepare documents for semantic search using native SQL and PySpark — no external ML frameworks required.
 
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com)
